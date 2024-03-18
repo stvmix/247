@@ -4123,21 +4123,23 @@ https://cp.panelchs.com:1936/8170/8170/.m3u8
 #EXTINF:0 tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2021/12/Logo-Reina-tv-bien.jpg" tvg-group="INFANTILES",La Reina (Rep. Dominicana) (🇩🇴)
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",TNT Deportes HD
-https://edge-mix04-coe.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",TruTV
-http://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd
+#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",HBO
+http://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",Universal Premiere
-http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd
+#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",HBO Xtreme
+http://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",Universal_Reality
+#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",Nicktoons
+http://chromecast.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
+#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",Plim Plim TV
+http://chromecast.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpdarkey/AmericaTV.json
