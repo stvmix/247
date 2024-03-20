@@ -1866,6 +1866,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROvRdpudmqdd2kO-EnnrzjxfC9ye7NDU1trM39vQEn8brqYYB268PD4L4iF-RhLwKNoMY&usqp=CAU" tvg-group="INFANTILES",NICK PlutoTv Español
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-id="TamesisTeVe.co" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRvhXH2HClQB8TFxg063tKUXxVYPDf8l7jQC3rNKg=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES",Tamesis TeVe (614p) [Not 24/7]
+https://tvlatina.live:1936/8018/8018/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Televilla.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2i8T0d2TCRe3q_xEkMWbmqoI853VmTYq39RryGevp9HHklcKQwHwBLYs9zPEo8wveeQ&usqp=CAU" tvg-group="INFANTILES",Televilla (720p) [Not 24/7]
+https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-kids-16x9_navidad.jpg" tvg-group="INFANTILES", Cine Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
@@ -1881,17 +1887,17 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manife
 #EXTINF:-1 channel-id="samsung-ESBC4100003WE" tvg-id="ESBC4100003WE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-group="INFANTILES", Clan E
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" tvg-group="INFANTILES",Boing
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/X50xOp7y_a4/maxresdefault.jpg" tvg-group="INFANTILES", | DM Niños TV
 https://ott1.hdlatam.tv/live/k1DS_tvLKENFSRJVFB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gb9K6i9.png" tvg-group="INFANTILES",Dreiko TV OK
+#EXTINF:-1 tvg-logo="https://serenotv.com/cargas/2023/03/Logo-De-Dreiko-Nuevo-1-300x300.png" tvg-group="INFANTILES",Dreiko TV OK
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PO47HbOlemo/hqdefault_live.jpg" tvg-group="INFANTILES", Simpson Mania HD	
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv?android_vs.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" tvg-group="INFANTILES",Boing
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/e/e4/Big_2019.png/revision/latest?cb=20200320175423" tvg-group="INFANTILES", big channel
 https://cageu.bozztv.com/ssh101/ssh101/bigchannel/playlist.m3u8
@@ -1941,7 +1947,7 @@ https://cageu.bozztv.com/ssh101/ssh101/canalonline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQpuHI15Uphe_ZkkcXuGB51X9RVNaDvhlOtapJercfjda8PapvAoydATLQwa_CfG4svA&usqp=CAU" tvg-group="INFANTILES",Gogo Play
 https://cageu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCwRSRr.png" tvg-group="INFANTILES",Gogo Play HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQpuHI15Uphe_ZkkcXuGB51X9RVNaDvhlOtapJercfjda8PapvAoydATLQwa_CfG4svA&usqp=CAU" tvg-group="INFANTILES",Gogo Play HD
 https://cageu.bozztv.com/ssh101/ssh101/gogoplayhd/playlist.m3u8
 
 #EXTINF:-53 tvg-logo="https://img.anime2you.de/2021/06/pluto-tv-anime-logo.jpg" tvg-group="INFANTILES",ANIME DE PLUTO TV
@@ -1965,7 +1971,7 @@ https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdKXPfUDKkq2zM-SFqg4a-KRP2DVGl0CerkbVyGW7g1TPqJ8sKFVd-rapYzpzw8IuodE&usqp=CAU" tvg-group="INFANTILES", Ganja TV
 https://stream-cdn-iad.vaughnsoft.net/play/live_ganja_tv_2.flv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CMMEIq3.png" tvg-group="INFANTILES", Zaz TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/6IJzCfVk_400x400.jpg/revision/latest?cb=20211216234023" tvg-group="INFANTILES", Zaz TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/120px-FunBox_TV_logo.svg.png" tvg-group="INFANTILES", Funbox Ok
@@ -1986,7 +1992,7 @@ https://cageu.bozztv.com/ssh101/ssh101/tvtoons/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-ESBD130000205" tvg-id="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" tvg-group="INFANTILES", Pitufo TV PT
 https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8NsZxiL.png" tvg-group="INFANTILES",Pitufos TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" tvg-group="INFANTILES",Pitufos TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwIrTSI.png" tvg-group="INFANTILES",Futurama stream
@@ -2010,7 +2016,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u
 #EXTINF:-1 tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/cd920b7/2147483647/strip/true/crop/1200x800+0+0/resize/1000x667!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fa4%2Fc7%2F0093276747b98696a1e86ad53233%2Flas-pistas-de-blue.jpg" tvg-group="INFANTILES",Pluto TV Las Pistas de Blue (360p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name= web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f- 1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0. 4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857- 714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qlTFGpx.png" tvg-group="INFANTILES", TALTAL TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8W4o_NdxpZBJT4g4-dHYfxWs2iIJQ0p_dneUuK0d6WpR6Pq0gBt_GTnEx09hzaFTrT8&usqp=CAU" tvg-group="INFANTILES", TALTAL TV HD
 https://cageu.bozztv.com/ssh101/ssh101/taltal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/paramountanimation/images/4/4b/UPN_Kids_logo.png/revision/latest?cb=20210813190320" tvg-group="INFANTILES",¡Haz Clic!
@@ -2211,13 +2217,13 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d2ece12bb549ab394f008dd5415ebbbf.png" tvg-group="INFANTILES", Classic Channel  
 https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" tvg-group="INFANTILES",Tigueritos TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" tvg-group="INFANTILES",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PCtEVPc.jpg" tvg-group="INFANTILES",Teleclasica
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWgDor4h5hAT_hX8jcrWhLkAEAdchCdVr6Vg4Ge7evWyhMvBNelHoZtlKE6_es2tF3RE&usqp=CAU" tvg-group="INFANTILES",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XVb8GeN.png" tvg-group="INFANTILES",TV Retro Palmares
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/RETRO-TV-PALMARES.png" tvg-group="INFANTILES",TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mi TV Televisión Clásica" tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" tvg-group="INFANTILES", Mi TV Televisión Clasica | US
@@ -2238,7 +2244,7 @@ https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://yourvideo2dvd.co.uk/cdn/shop/products/VHS_580x.jpg?v=1637610244" tvg-group="INFANTILES",Video Club | Arg
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oEQDTdu.jpg" tvg-group="INFANTILES",Ticavision TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAcARREJqnx2bzSeBvnqJ0avcJuCkwquKsaxzEkCcoUNn5an7GCfeML9n3CPzwWiYlak&usqp=CAU" tvg-group="INFANTILES",Ticavision TV HD
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA" tvg-group="INFANTILES",Telesur Costa Rica
@@ -2298,7 +2304,7 @@ https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImK5BbztO5l3LeAkKcQdm-PB5QodGhRpSDq7QCJs5_GMewj1zASkmIMQY-pnjAzmYYG8&usqp=CAU" tvg-group="INFANTILES",latacungatv
 https://cageu.bozztv.com/ssh101/ssh101/streamlatacungatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFvUgVh.png" tvg-group="INFANTILES",Popular TV Chile
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9iPUcxC-KoEkzsGDxt-N_Lly3DHAUw086BtfdUAfsaAmC6OxAYxMPlAbIgTF8IJf84E&usqp=CAU" tvg-group="INFANTILES",Popular TV Chile
 https://tv.streaming-chile.com:1936/8030/8030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvbEDxaD_rBGcScdDnQrIXvlhBiB_-ZZGSbNaJ3n28_YNxDvpO_YRuwmSEcVv7zAjOsfw&usqp=CAU" tvg-group="INFANTILES",TVS Retro
@@ -2421,10 +2427,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manif
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNAaGndh6jhvmWeP2nhUiwp3bHG1aWcfCjNuXvRj4-dbpvKAwMdwtnOiq7iOCUb_N3UzI&usqp=CAU" tvg-group="INFANTILES",Star Tve HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u0XZo3b.png" tvg-group="INFANTILES",Rtvce HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1334779341306212352/wAScOYnE_200x200.jpg" tvg-group="INFANTILES",Rtvce HD
 https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ITx8bTj.png" tvg-group="INFANTILES",Tve Internacional America HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" tvg-group="INFANTILES",Tve Internacional America HD (geobloqueo)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvVwTYfMdgF8PKMvSKTIqkG0Rce6K4XGiZyd9-ditTYluDJ-otmZRUqQtbF1Y_b5e-lsQ&usqp=CAU" tvg-group="INFANTILES", MEGA CL HD
@@ -4051,12 +4057,6 @@ https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 #EXTINF:-1 tvg-id="NSTV.co" tvg-logo="https://yt3.googleusercontent.com/NlfNazX7kIx7VzUHzrZNTeK9NoudhBV_hapMEuDXc92rjI_wKCLBscn2-uqRhQpRm7axH-tg=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES",NSTV (1080p)
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TamesisTeVe.co" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRvhXH2HClQB8TFxg063tKUXxVYPDf8l7jQC3rNKg=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES",Tamesis TeVe (614p) [Not 24/7]
-https://tvlatina.live:1936/8018/8018/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Televilla.co" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2i8T0d2TCRe3q_xEkMWbmqoI853VmTYq39RryGevp9HHklcKQwHwBLYs9zPEo8wveeQ&usqp=CAU" tvg-group="INFANTILES",Televilla (720p) [Not 24/7]
-https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TeleCimitarra.co" tvg-logo="https://i.imgur.com/OosxlPx.jpg" tvg-group="INFANTILES",TeleCimitarra (720p)
 https://cp.panelchs.com:1936/8094/8094/playlist.m3u8
 
@@ -4072,7 +4072,7 @@ https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJeqAzj.png" tvg-group="INFANTILES", Fuego TV | SD | santiago
 https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w1482703670.m3u8
 
-#EXTINF:-1 tvg-id="Conectate TV" tvg-name="Conectate TV" tvg-logo="https://i.imgur.com/HK1NEsV.png" tvg-group="INFANTILES",Conectate TV
+#EXTINF:-1 tvg-id="Conectate TV" tvg-name="Conectate TV" tvg-logo="https://dateame.co/public/storage/media/20200615_conectate_tv.png" tvg-group="INFANTILES",Conectate TV
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LSCHJJK.png" tvg-group="INFANTILES",Aion TV
@@ -4096,5 +4096,5 @@ https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7e/c1/b8/7ec1b88db8493f5426d662878c90025f.jpg" tvg-group="INFANTILES", ACTIVA TV
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 
-#EXTINF:0 tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/330295039_523628529921557_8628268340262864060_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zAd0S6a8FI0AX9AWl6R&_nc_ht=scontent.ftuc1-2.fna&oh=00_AfBUZ0znXfGbh9TuUQY9_D6nSGOZlk5HR6rBLviiNsQptg&oe=65EDD6CE" tvg-group="INFANTILES",Huellas (Colombia) (🇨🇴) 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcogRJTg6WPReCU-iAuyFz9kNwlmDVpbQ3uTHD8-s1qd-13y-wI4S-QWeBnVp-BJvHWQ&usqp=CAU" tvg-group="INFANTILES",Huellas (Colombia) (🇨🇴) 
 https://cp.panelchs.com:1936/8170/8170/.m3u8
