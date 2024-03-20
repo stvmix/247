@@ -148,8 +148,8 @@ https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgwi96FwUqRyDz9G5yMe0q-dZTc1s67Shb4AWgvPHBzRlpmvmyOzUq-RSRZeBe2f-VUg&usqp=CAU" tvg-group="ARGENTINA", CINE AR NUEVO
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png" tvg-group="ARGENTINA", Teatrix
-https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/54fa885bc2be40aa10e89b26acb0db321ae6863641a18ebc643cf3c558e66a51.png" tvg-group="ARGENTINA",WesternTeve
+https://cageu.bozztv.com/ssh101/ssh101/westernteve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-jVa5n7QT1wCKAhOUhgcb-pL32Tf4R7kmml1iK2rvzx2NNTzRwn-kS8liM4zjchE2AI&usqp=CAU" tvg-group="ARGENTINA", El Palomar ( 720p ) nuevo
 https://stream.trixserver.com:3249/live/uv038live.m3u8
@@ -205,8 +205,8 @@ https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E5diHnn.png" tvg-group="ARGENTINA",Neo TV bo (720p)
 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E5diHnn.png" tvg-group="ARGENTINA",Neo Tv Bolivia Opc2
-https://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NfeBxzi6LkvnmjKxKB90d2gPpqv31aRoi8qEMWvp7jB9GtBvVEaqvhAwB984PKGm-z8&usqp=CAU" tvg-group="ARGENTINA",Miramax Tv Canal 11 - 9.1
+https://cageu.bozztv.com/ssh101/ssh101/miramaxtv2024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cablesur.com.co/wp-content/uploads/2022/09/LOGO-SITIO-PEQUENO.png" tvg-group="ARGENTINA", Cable Sur TV (720p)
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
@@ -253,11 +253,11 @@ https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="1544" tvg-name="TV Megaclásico" tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" tvg-group="ARGENTINA", Megaclásico televisión | Arkansas
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1545" tvg-name="Estacion Retro" tvg-logo="https://cdn.m3u.cl/logo/1545_Estacion_Retro.png" tvg-group="ARGENTINA", Estación Retro | CO
-https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/09aad3dd77caa0ed9af428f21870dc79/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/936020585997627397/_oS4Namy_400x400.jpg" tvg-group="ARGENTINA",Emaxtv (canal8)
+https://cageu.bozztv.com/ssh101/ssh101/emaxtvcanal8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ATV Argentina (540p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZbSAPnJqObDcR_NXS8TkVmGXD_Jj36KhYRUHjBrSjRw468hUJUT3Qz9jxsxiqqvu-Jc&usqp=CAU" tvg-group="ARGENTINA",ATV Argentina (540p)
-https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMYpFm8V9_Oyi_AqDH5gUzTckwmi4Ao4X8FnkAfGHdMKhOFE-B22YSkGxTouVrEftsby0&usqp=CAU" tvg-group="ARGENTINA",Punto TV (tv2024)
+https://cageu.bozztv.com/ssh101/ssh101/tv2024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/fb.png" tvg-group="ARGENTINA", LA PODEROSA TV
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
@@ -277,8 +277,8 @@ https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_09/large.59ae0e7a7800f_canal2codazzi.png.a2887142a5bf2e793f59063c4754d105.png" tvg-group="ARGENTINA", Canal 2 de Ushuaia (1080p) Nuevo
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XgQIOb4y-No/maxresdefault.jpg" tvg-group="ARGENTINA", Yapeyu Cable color
-https://videohd.live:19360/8094/8094.m3u8
+#EXTINF:0 tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2021/12/Logo-Reina-tv-bien.jpg" tvg-group="ARGENTINA",La Reina (Rep. Dominicana) (🇩🇴)
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/l5TQ4kty4pBR25QXvTcu5h8u5VCg2oLuVs8XksdSdC54uzdeosfQVGtcabnt3F9SBfw=w600-h300-pc0xffffff-pd" tvg-group="ARGENTINA", AVC HD
 https://ssh101.bozztv.com/ssh101/streamavc/chunks.m3u8
@@ -4098,18 +4098,3 @@ https://streamtv.mediasector.es/hls/activatv/.m3u8
 
 #EXTINF:0 tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/330295039_523628529921557_8628268340262864060_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zAd0S6a8FI0AX9AWl6R&_nc_ht=scontent.ftuc1-2.fna&oh=00_AfBUZ0znXfGbh9TuUQY9_D6nSGOZlk5HR6rBLviiNsQptg&oe=65EDD6CE" tvg-group="INFANTILES",Huellas (Colombia) (🇨🇴) 
 https://cp.panelchs.com:1936/8170/8170/.m3u8
-
-#EXTINF:0 tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2021/12/Logo-Reina-tv-bien.jpg" tvg-group="INFANTILES",La Reina (Rep. Dominicana) (🇩🇴)
-https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/54fa885bc2be40aa10e89b26acb0db321ae6863641a18ebc643cf3c558e66a51.png" tvg-group="INFANTILES",WesternTeve
-https://cageu.bozztv.com/ssh101/ssh101/westernteve/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/936020585997627397/_oS4Namy_400x400.jpg" tvg-group="INFANTILES",Emaxtv (canal8)
-https://cageu.bozztv.com/ssh101/ssh101/emaxtvcanal8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMYpFm8V9_Oyi_AqDH5gUzTckwmi4Ao4X8FnkAfGHdMKhOFE-B22YSkGxTouVrEftsby0&usqp=CAU" tvg-group="INFANTILES",Punto TV (tv2024)
-https://cageu.bozztv.com/ssh101/ssh101/tv2024/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NfeBxzi6LkvnmjKxKB90d2gPpqv31aRoi8qEMWvp7jB9GtBvVEaqvhAwB984PKGm-z8&usqp=CAU" tvg-group="INFANTILES",Miramax Tv Canal 11 - 9.1
-https://cageu.bozztv.com/ssh101/ssh101/miramaxtv2024/playlist.m3u8
