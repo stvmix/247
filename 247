@@ -247,8 +247,8 @@ https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2555-320x180-000000.jpg" tvg-group="ARGENTINA",CN3 Pinamar (720p ) [No 24 horas al día, 7 días a la semana]
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1381" tvg-name="Maxima TV" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" tvg-group="ARGENTINA", Máxima televisión | Arkansas
-https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1381" tvg-name="Maxima TV" tvg-logo="https://cdn.m3u.cl/logo/1381_Maxima_TV.png", Maxima TV | AR
+https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1544" tvg-name="TV Megaclásico" tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" tvg-group="ARGENTINA", Megaclásico televisión | Arkansas
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3UCL
@@ -1869,17 +1869,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-kids-16x9_navidad.jpg" tvg-group="INFANTILES", Cine Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wct9jsp.png" tvg-group="INFANTILES", monitvhd
-https://cageu.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png" tvg-group="INFANTILES",Moni TV HD OK
-https://vdo.streaming-chile.com:3056/live/ngencrcbyylive.m3u8
+#EXTINF:-1 tvg-id="CL | Moni TV" tvg-name="CL | Moni TV" tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png" group-title="INFANTILES", 152 | Moni TV
+https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_b9YFXoEweeqnFfpHVF7hrmVfOiuNC_oIZJGAkWGQGzDkW3lmcRXj6IwBIQTFaFeGBQ&usqp=CAU" tvg-group="INFANTILES",  PLANETA TV NIÑOS cl
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
-
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2016/01/569394a79485c__838x390.jpg" tvg-group="INFANTILES", Cine Canal * | CL
-https://6362ca6f1fc28.streamlock.net:443/cinecanal/cinecanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/campeones-sendokai/images/2/23/Clan_Logo.png/revision/latest?cb=20150130205049&path-prefix=es" tvg-group="INFANTILES",clan
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
@@ -1892,9 +1886,6 @@ https://ott1.hdlatam.tv/live/k1DS_tvLKENFSRJVFB/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gb9K6i9.png" tvg-group="INFANTILES",Dreiko TV OK
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" tvg-group="INFANTILES", EL CHAVO New
-https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/PO47HbOlemo/hqdefault_live.jpg" tvg-group="INFANTILES", Simpson Mania HD	
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv?android_vs.ts.m3u8
@@ -1917,8 +1908,8 @@ https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bxo9xzk8EE1Fcs2vFmDkiTTfYKEv_lLNgwENOI-PBt0vmHw-ktVXo0Bc3OIRwo_51IrTQ_sh=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES", Retro Magico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" tvg-group="INFANTILES",Latino Kids TV
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png", Latino Kids TV ✪ | UY
+https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/cd/5b/vgAf0xJA_o.jpg" tvg-group="INFANTILES", Pandamax TV
 https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8?PlaylistM3UCL
@@ -1930,7 +1921,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UC
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/841b33153070329.Y3JvcCwxMDgwLDg0NCwwLDExNw.jpg" tvg-group="INFANTILES", DB VariedTV
-https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCfHKPe5iYriyYKfjkO6127CPuQ6a3RaS6HiG1PidjJIzinO_UpNGZ4ilgHlYkbKtlao&usqp=CAU" tvg-group="INFANTILES", BITME 401
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
@@ -1992,23 +1983,11 @@ https://marine2.miplay.cl/ntv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/newspack-yucatan.s3.amazonaws.com/uploads/2020/07/Ed8c9PtX0AEwjtf.jpg?fit=600%2C450&ssl=1" tvg-group="INFANTILES", TvToons HD
 https://cageu.bozztv.com/ssh101/ssh101/tvtoons/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yOLKIBYB39Q/hqdefault.jpg" tvg-group="INFANTILES",  | El Gallo Claudio TV
-https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eu4cOChNaBQ/maxresdefault.jpg" tvg-group="INFANTILES", | Tom y Jerry TV
-https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/c/ca/Los_Picapiedras_1.jpg/260px-Los_Picapiedras_1.jpg" tvg-group="INFANTILES",LosPicapiedraplus
-https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
-
 #EXTINF:-1 channel-id="samsung-ESBD130000205" tvg-id="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" tvg-group="INFANTILES", Pitufo TV PT
 https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8NsZxiL.png" tvg-group="INFANTILES",Pitufos TV
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fcf54543-d0d9-4773-93df-85b4ae41e447-profile_image-150x150.png" tvg-group="INFANTILES", Cloud TV Plus
-https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwIrTSI.png" tvg-group="INFANTILES",Futurama stream
 https://stream-cdn-iad.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts.m3u8
@@ -4123,23 +4102,8 @@ https://cp.panelchs.com:1936/8170/8170/.m3u8
 #EXTINF:0 tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2021/12/Logo-Reina-tv-bien.jpg" tvg-group="INFANTILES",La Reina (Rep. Dominicana) (🇩🇴)
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/.m3u8
 
+#EXTINF:0 tvg-logo="" tvg-group="INFANTILES", DIBUJOS ANIMADOS RETRO
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",HBO
-http://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",HBO Xtreme
-http://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",Nicktoons
-http://chromecast.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",Plim Plim TV
-http://chromecast.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpdarkey/AmericaTV.json
+#EXTINF:0 tvg-logo="" tvg-group="INFANTILES", AZTECA 7 HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/116.m3u8
