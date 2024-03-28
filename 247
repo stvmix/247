@@ -4101,3 +4101,45 @@ https://streamtv.mediasector.es/hls/activatv/.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcogRJTg6WPReCU-iAuyFz9kNwlmDVpbQ3uTHD8-s1qd-13y-wI4S-QWeBnVp-BJvHWQ&usqp=CAU" tvg-group="INFANTILES",Huellas (Colombia) (🇨🇴) 
 https://cp.panelchs.com:1936/8170/8170/.m3u8
+
+
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/rbInBME.png" tvg-group="INFANTILES", - 7.1 Azteca 7
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96 N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com. akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" tvg-group="INFANTILES", televallo
+https://cageu.bozztv.com/ssh101/ssh101/televallo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" tvg-group="INFANTILES", maxcartoon
+https://cageu.bozztv.com/ssh101/ssh101/maxcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" tvg-group="INFANTILES", platiniumtv
+https://cageu.bozztv.com/ssh101/ssh101/platiniumtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",Nosey Escandalos (España) (🇪🇸)
+https://b8fd51ec533f400cb683d981449b20fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NoseyEscandalos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png"#EXTINF:-1 tvg-id="" tvg-logo="" tvg-group="INFANTILES",Canal 7 Talanga Visión (720p)
+https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmWu73V.png" tvg-group="INFANTILES", Telemedios Canal 25 (1080p) [Not 24/7]
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rA9Y0Z1.jpg" tvg-group="INFANTILES",Carare TV (1080p) [Not 24/7]
+https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G0BRKFc.jpg" tvg-group="INFANTILES",Caribe TV CR (720p)
+https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzjqAZh.jpg" tvg-group="INFANTILES",Telavisión (720p)
+https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkzIqR2.jpg" tvg-group="INFANTILES",TELE 4 Ojocaliente (720p)
+https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
+
+#EXTINF:1 tvg-logo="" tvg-group="INFANTILES",La Liga Premier Paramount+ (España) (🇪🇸)
+https://is.gd/ejlv3g
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/rxpphTx/DSports.jpg" group-title="Deportes", Directv
+http://nxt.plus:8080/jesus01/jesus01/68830
