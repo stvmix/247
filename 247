@@ -2394,9 +2394,6 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhLnq2W.png" tvg-group="INFANTILES",Voice Over RTV
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
-#EXTINF:-1 tvg-id="948" tvg-name="San Pedro Conecta" tvg-logo="https://cdn.m3u.cl/logo/948_San_Pedro_Conecta.png" tvg-group="INFANTILES", San Pedro Conecta | CL
-https://stmv5.voxtvhd.com.br/sanpedroconecta/sanpedroconecta/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo2_2018.png?202308181060" tvg-group="INFANTILES",Rec 13 Tv
 https://marine2.miplay.cl/rec/mono.m3u8
 
@@ -3886,6 +3883,9 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png?resize=696%2C392&ssl=1" tvg-group="INFANTILES", CANAL 10 MAR DEL PLATA
 https://g2.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
 
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" tvg-group="INFANTILES",El Nueve (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" tvg-group="INFANTILES", AZM TV 
 https://live.canalnueve.tv/index.m3u8
 
@@ -4048,9 +4048,6 @@ https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 #EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-logo="https://pbs.twimg.com/profile_images/1720457292154327040/YbRlYbQP_400x400.jpg" tvg-group="INFANTILES",VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" tvg-group="INFANTILES",El Nueve (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
-
 #EXTINF:-1 tvg-id="Quantica TV" tvg-name="Quantica TV" tvg-logo="https://i.imgur.com/OWAL8tz.png" tvg-group="INFANTILES",Quantica TV | Argentina
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
@@ -4110,16 +4107,13 @@ https://cp.panelchs.com:1936/8170/8170/.m3u8
 https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96 N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com. akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" tvg-group="INFANTILES", televallo
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.televallo.eu/_frame/logo-televallo.jpg" tvg-group="INFANTILES", televallo
 https://cageu.bozztv.com/ssh101/ssh101/televallo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" tvg-group="INFANTILES", maxcartoon
-https://cageu.bozztv.com/ssh101/ssh101/maxcartoon/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" tvg-group="INFANTILES", platiniumtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbuTi8emgW31I0QhI1ILqa8ayP38yxzYILg1PcY9waOUDwy-d0c74AyDhuvQc0G0Ksg8k&usqp=CAU" tvg-group="INFANTILES", platiniumtv
 https://cageu.bozztv.com/ssh101/ssh101/platiniumtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",Nosey Escandalos (España) (🇪🇸)
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png" tvg-group="INFANTILES",Nosey Escandalos (España) (🇪🇸)
 https://b8fd51ec533f400cb683d981449b20fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NoseyEscandalos/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmWu73V.png" tvg-group="INFANTILES", Telemedios Canal 25 (1080p) [Not 24/7]
@@ -4131,7 +4125,7 @@ https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0BRKFc.jpg" tvg-group="INFANTILES",Caribe TV CR (720p)
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES", Latina TV ✪ | CL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeletCvFNbtiBMJKNIvQqhfFtJhEVxgcahqx7rj0Rt9i4bXy1rbxmDjyF9eSpIB1vkPOg&usqp=CAU" tvg-group="INFANTILES", Latina TV ✪ | CL
 https://paneltv.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1564" tvg-name="Ritmo Top Latino" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png" tvg-group="INFANTILES", Ritmo Top Latino ✪ | CL
@@ -4139,9 +4133,6 @@ https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1553" tvg-name="Providencia TV" tvg-logo="https://cdn.m3u.cl/logo/1553_Providencia_TV.png" tvg-group="INFANTILES", Providencia TV ✪ | CL
 https://v1.tustreaming.cl/providenciatv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://cdn.m3u.cl/logo/453_TVN___24h.png" tvg-group="INFANTILES", TVN - 24h ✪ | CL
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="67" tvg-name="Exprezion TV" tvg-logo="https://cdn.m3u.cl/logo/67_Exprezion_TV.png" tvg-group="INFANTILES", Exprezion TV | CL
 https://vdochile.com:3774/live/cnrhiawklive.m3u8?PlaylistM3UCL
@@ -4154,9 +4145,6 @@ https://v4.tustreaming.cl/tvnortedigital/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1468" tvg-name="Radio Araucania Laja" tvg-logo="https://cdn.m3u.cl/logo/1468_Radio_Araucania_Laja.png" tvg-group="INFANTILES", Radio Araucania Laja | CL
 https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" tvg-group="INFANTILES",Telemicro (480p)
-http://51.81.93.239:8084/hls/tmicro.m3u8
 
 #EXTINF:-1 tvg-id="GuaroTV.ve" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" tvg-group="INFANTILES",Guaro TV (1080p)
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
