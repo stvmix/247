@@ -1879,7 +1879,7 @@ https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 
 #EXTINF:-1 tvg-id="CL | Moni TV" tvg-name="CL | Moni TV" tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png" group-title="INFANTILES", 152 | Moni TV
-https://stream.skarnetchile.com:3817/live/monitvlive.m3u8
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_b9YFXoEweeqnFfpHVF7hrmVfOiuNC_oIZJGAkWGQGzDkW3lmcRXj6IwBIQTFaFeGBQ&usqp=CAU" tvg-group="INFANTILES",  PLANETA TV NIÑOS cl
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
@@ -1917,7 +1917,10 @@ https://cageu.bozztv.com/ssh101/ssh101/magicstream0k/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bxo9xzk8EE1Fcs2vFmDkiTTfYKEv_lLNgwENOI-PBt0vmHw-ktVXo0Bc3OIRwo_51IrTQ_sh=s900-c-k-c0x00ffffff-no-rj" tvg-group="INFANTILES", Retro Magico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png", Latino Kids TV ✪ | UY
+#EXTINF:-1 tvg-id="1304" tvg-name="Niños Mágicos" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png" tvg-group="INFANTILES", Niños Mágicos | AR nuevo
+https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" tvg-group="INFANTILES", Latino Kids TV ✪ | UY
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/cd/5b/vgAf0xJA_o.jpg" tvg-group="INFANTILES", Pandamax TV
@@ -4127,3 +4130,33 @@ https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0BRKFc.jpg" tvg-group="INFANTILES",Caribe TV CR (720p)
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES", Latina TV ✪ | CL
+https://paneltv.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1564" tvg-name="Ritmo Top Latino" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png" tvg-group="INFANTILES", Ritmo Top Latino ✪ | CL
+https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1553" tvg-name="Providencia TV" tvg-logo="https://cdn.m3u.cl/logo/1553_Providencia_TV.png" tvg-group="INFANTILES", Providencia TV ✪ | CL
+https://v1.tustreaming.cl/providenciatv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://cdn.m3u.cl/logo/453_TVN___24h.png" tvg-group="INFANTILES", TVN - 24h ✪ | CL
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="67" tvg-name="Exprezion TV" tvg-logo="https://cdn.m3u.cl/logo/67_Exprezion_TV.png" tvg-group="INFANTILES", Exprezion TV | CL
+https://vdochile.com:3774/live/cnrhiawklive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://cdn.m3u.cl/logo/69_G_Vision.png" tvg-group="INFANTILES", G Vision | CL
+https://oracle.streaminghd.cl/gmistral/gmistral/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1241" tvg-name="TV Norte Digital" tvg-logo="https://cdn.m3u.cl/logo/1241_TV_Norte_Digital.png" tvg-group="INFANTILES", TV Norte Digital | CL
+https://v4.tustreaming.cl/tvnortedigital/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1468" tvg-name="Radio Araucania Laja" tvg-logo="https://cdn.m3u.cl/logo/1468_Radio_Araucania_Laja.png" tvg-group="INFANTILES", Radio Araucania Laja | CL
+https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" tvg-group="INFANTILES",Telemicro (480p)
+http://51.81.93.239:8084/hls/tmicro.m3u8
+
+#EXTINF:-1 tvg-id="GuaroTV.ve" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" tvg-group="INFANTILES",Guaro TV (1080p)
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
