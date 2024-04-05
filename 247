@@ -4102,11 +4102,6 @@ https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcogRJTg6WPReCU-iAuyFz9kNwlmDVpbQ3uTHD8-s1qd-13y-wI4S-QWeBnVp-BJvHWQ&usqp=CAU" tvg-group="INFANTILES",Huellas (Colombia) (🇨🇴) 
 https://cp.panelchs.com:1936/8170/8170/.m3u8
 
-
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/rbInBME.png" tvg-group="INFANTILES", - 7.1 Azteca 7
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96 N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com. akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.televallo.eu/_frame/logo-televallo.jpg" tvg-group="INFANTILES", televallo
 https://cageu.bozztv.com/ssh101/ssh101/televallo/playlist.m3u8
 
@@ -4148,3 +4143,21 @@ https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?Playlis
 
 #EXTINF:-1 tvg-id="GuaroTV.ve" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" tvg-group="INFANTILES",Guaro TV (1080p)
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f66c8380f9a3880549a0_13cable.png" tvg-group="INFANTILES", C13 CL
+https://marine2.miplay.cl/c13/mono.m3u8
+
+#EXTINF:-1 tvg-group="INFANTILES",Imagen TV (720p) [No 24/7]
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" tvg-group="INFANTILES", ATV HD
+https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" tvg-group="INFANTILES",ATV+ NOTICIAS
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cable Perú" tvg-logo="https://images2.imgbox.com/97/ce/094nuyen_o.jpg" tvg-group="INFANTILES",Cable Perú
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/e2/55/9HDntZGQ_o.png" tvg-group="INFANTILES",VNPNOTICIAS
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
