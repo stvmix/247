@@ -4209,13 +4209,6 @@ https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd?gith
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
 https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GMrD1tP/dreamworks.jpg" tvg-group="INFANTILES", DREAMWORKS live4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/dreamworks.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-https://live4-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QnsvnDb/GPREMIERE.jpg" tvg-group="INFANTILES", GOLDEN PREMIER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/goldenpremier.json
@@ -4236,3 +4229,13 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
 https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrgk31y/hboxtreme.png" tvg-group="INFANTILES", FOX-SPORTS-PREMIUM-HD
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrkg31y/hboxtreme.png" tvg-group="INFANTILES", IMAGEN-TV-HD cdmx
+https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/IMAGEN-TV-HD/dash/IMAGEN-TV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk3g1y/hboxtreme.png" tvg-group="INFANTILES", AZTECA-7-HD cdmx
+https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
