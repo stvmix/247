@@ -1477,7 +1477,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://latamvosliveclarovideo.akamaized.net/"
 #KODIPROP:inputstream.adaptive.stream_headers=Accept="*/*"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.21452.134 Safari/537.36"
-https://cdn.cvattv.com.ar/live/c3eds/HBO/SA_Live_dash_enc_2A/HBO.mpd
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/HBO_Family.json
@@ -1992,8 +1992,12 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8-4rQqLYudQHA5BRBiWGq6hMDG2GWq6jW0kCcJu-nej149HvyN4Xc9dgMp8wKnPcuAg&usqp=CAU" tvg-group="INFANTILES",NTV 
 https://marine2.miplay.cl/ntv/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/newspack-yucatan.s3.amazonaws.com/uploads/2020/07/Ed8c9PtX0AEwjtf.jpg?fit=600%2C450&ssl=1" tvg-group="INFANTILES", TvToons HD
-https://cageu.bozztv.com/ssh101/ssh101/tvtoons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GMrD1tP/dreamworks.jpg" tvg-group="INFANTILES", DREAMWORKS live2 ok
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/dreamworks.json
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
+https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
 
 #EXTINF:-1 channel-id="samsung-ESBD130000205" tvg-id="ESBD130000205" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20230809T053830SQUARE.png_20230809053830.png" tvg-group="INFANTILES", Pitufo TV PT
 https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
@@ -4162,76 +4166,11 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/e2/55/9HDntZGQ_o.png" tvg-group="INFANTILES",VNPNOTICIAS
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
-#EXTINF:-1 tvg-group="INFANTILES", TELEMUNDO us
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" tvg-group="INFANTILES", TELEMUNDO us
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-group="INFANTILES", TELEMUNDO -1 HR
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" tvg-group="INFANTILES", TELEMUNDO -1 HR
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3600
 
-#EXTINF:-1 tvg-group="INFANTILES", TELEMUNDO -2 HR
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" tvg-group="INFANTILES", TELEMUNDO -2 HR
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
-
-#EXTINF:-1 tvg-group="INFANTILES", CL CANAL 13 ythls-v2.onrender
-https://ythls-v2.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FHhp254/80.jpg" tvg-group="INFANTILES", MTV 80
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/mtv80.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-https://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c2BFdnS/C.jpg" tvg-group="INFANTILES", CLUB MTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/clubmtv.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WHHC5nG/LIVE.png" tvg-group="INFANTILES", MTV EN VIVO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/mtvlive.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KycSshT/Fs-Tx-Cm-RL-400x400.jpg" tvg-group="INFANTILES", BITME live4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/bitme.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd?gith
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GMrD1tP/dreamworks.jpg" tvg-group="INFANTILES", DREAMWORKS live2 ok
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/dreamworks.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-https://live2-ott.izzigo.tv/out/u/dash/DREAM-WORKS-HD/default.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GMrD1tP/dreamworks.jpg" tvg-group="INFANTILES", DREAMWORKS 1
-https://live2-ott.izzigo.tv/out/u/hls/DREAM-WORKS-HD/default.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QnsvnDb/GPREMIERE.jpg" tvg-group="INFANTILES", GOLDEN PREMIER
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/goldenpremier.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-https://live2-ott.izzigo.tv/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="INFANTILES", HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/hbo.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" tvg-group="INFANTILES", HBO XTREME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/hboxtreme.json
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, como Geck0) Chrome/102.0.0.0 Safari/537.37"
-https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
-
