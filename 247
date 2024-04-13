@@ -4213,6 +4213,33 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/50
 #EXTINF:-1 tvg-group="INFANTILES",CNN ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/12
 
+#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",ANIMAL PLANET 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
+#EXTINF:-1 tvg-group="INFANTILES",GOURMET
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
+#EXTINF:-1 tvg-group="INFANTILES",TLC  ok
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/46
+#EXTINF:-1 tvg-group="INFANTILES",DESCUBRIMIENTO ok
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
+#EXTINF:-1 tvg-group="INFANTILES",HOGAR Y SALUD ok
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
+#EXTINF:-1 tvg-group="INFANTILES",DISCOVERY ID ok
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
+#EXTINF:-1 tvg-group="INFANTILES",sci ok
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
+#EXTINF:-1 tvg-group="INFANTILES",THEATRE ok
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
+#EXTINF:-1 tvg-group="INFANTILES",DISCOVERY TURBO ok
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
+#EXTINF:-1 tvg-group="INFANTILES",DESCUBRIMIENTO DEL MUNDO ok
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
+#EXTINF:-1 tvg-group="INFANTILES",NATGEO ok
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
+#EXTINF:-1 tvg-group="INFANTILES",NATGEO WILD 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
+#EXTINF:-1 tvg-group="INFANTILES",HISTORY CHANNEL 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
+
 #EXTINF:-1 tvg-group="INFANTILES",ESTRELLAS ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/29
 #EXTINF:-1 tvg-group="INFANTILES", AZTECA 7 ok
@@ -4250,33 +4277,6 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
 #EXTINF:-1 tvg-group="INFANTILES",Tnt NOVELAS  ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/45
 
-#EXTINF:-1 tvg-logo="" tvg-group="INFANTILES",ANIMAL PLANET 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
-#EXTINF:-1 tvg-group="INFANTILES",GOURMET
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
-#EXTINF:-1 tvg-group="INFANTILES",TLC  ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/46
-#EXTINF:-1 tvg-group="INFANTILES",DESCUBRIMIENTO ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
-#EXTINF:-1 tvg-group="INFANTILES",HOGAR Y SALUD ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
-#EXTINF:-1 tvg-group="INFANTILES",DISCOVERY ID ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
-#EXTINF:-1 tvg-group="INFANTILES",sci ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
-#EXTINF:-1 tvg-group="INFANTILES",THEATRE ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
-#EXTINF:-1 tvg-group="INFANTILES",DISCOVERY TURBO ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
-#EXTINF:-1 tvg-group="INFANTILES",DESCUBRIMIENTO DEL MUNDO ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
-#EXTINF:-1 tvg-group="INFANTILES",NATGEO ok
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
-#EXTINF:-1 tvg-group="INFANTILES",NATGEO WILD 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
-#EXTINF:-1 tvg-group="INFANTILES",HISTORY CHANNEL 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
-
 #EXTINF:-1 tvg-group="INFANTILES",A&E
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/61
 
@@ -4288,3 +4288,5 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/68
 
 #EXTINF:-1 tvg-group="INFANTILES",AXN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
+
+
