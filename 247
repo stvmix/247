@@ -4217,11 +4217,8 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/50
 #EXTINF:-1 tvg-group="INFANTILES",ESTRELLAS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/29
 
-#EXTINF:-1 tvg-group="INFANTILES"AZTECA 7
+#EXTINF:-1 tvg-group="INFANTILES", AZTECA 7
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/4
-
-#EXTINF:-1 tvg-group="INFANTILES",CARTOONITO
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/5
 
 #EXTINF:-1 tvg-group="INFANTILES",RED DE DIBUJOS ANIMADOS
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
@@ -4244,7 +4241,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
 #EXTINF:-1 tvg-group="INFANTILES",CANAL DE DESCUBRIMIENTO
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
 
-#EXTINF:-1 tvg-group="INFANTILES",DESCUBRIMIENTO HOGAR Y SALUD
+#EXTINF:-1 tvg-group="INFANTILES",HOGAR Y SALUD
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
 
 #EXTINF:-1 tvg-group="INFANTILES",DISCOVERY ID
@@ -4296,3 +4293,19 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/51
 #EXTINF:-1 tvg-group="INFANTILES",WARNER
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
+
+
+#EXTINF:-1 tvg-group="INFANTILES", CARTOON NETWORK 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/9
+#EXTINF:-1 tvg-group="INFANTILES", DISCOVERY KIDS 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
+#EXTINF:-1 tvg-group="INFANTILES", DISNEY JR 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
+#EXTINF:-1 tvg-group="INFANTILES", Disney 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/24
+#EXTINF:-1 tvg-group="INFANTILES", NATGEO KIDS 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/38
+#EXTINF:-1 tvg-group="INFANTILES", NICK JR 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/41
+#EXTINF:-1 tvg-group="INFANTILES", TOONCAST 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
