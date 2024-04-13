@@ -4174,3 +4174,6 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3
 
 #EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" tvg-group="INFANTILES", TELEMUNDO -2 HR
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
+
+#EXTINF:-1 tvg-id="ESPNDeportes(Español).us" tvg-name="ESPN Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" tvg-group="INFANTILES", ESPN Deportes
+http://208.88.246.11:5473/encoder82/evento16/chunk_Auth=ix08x/playlist.m3u8
