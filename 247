@@ -4250,13 +4250,12 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
 #EXTINF:-1 tvg-group="INFANTILES",Tnt NOVELAS  ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/45
 
-
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDc0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1709698313152" tvg-group="INFANTILES",ANIMAL PLANET 
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
 #EXTINF:-1 tvg-group="INFANTILES",GOURMET
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
 #EXTINF:-1 tvg-group="INFANTILES",TLC  ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/46
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDc0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1709698313152" tvg-group="INFANTILES",ANIMAL PLANET 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/2
 #EXTINF:-1 tvg-group="INFANTILES",DESCUBRIMIENTO ok
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
 #EXTINF:-1 tvg-group="INFANTILES",HOGAR Y SALUD ok
@@ -4278,9 +4277,6 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
 #EXTINF:-1 tvg-group="INFANTILES",HISTORY CHANNEL 
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
 
-#EXTINF:-1 tvg-group="INFANTILES",GLITZ 
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/34
-
 #EXTINF:-1 tvg-group="INFANTILES",A&E
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/61
 
@@ -4293,6 +4289,4 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/68
 #EXTINF:-1 tvg-group="INFANTILES",AXN
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
 
-#EXTINF:-1 tvg-group="INFANTILES",CINEMA
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/70
 
