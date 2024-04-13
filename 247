@@ -4176,4 +4176,8 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=3
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=7200
 
 #EXTINF:-1 tvg-id="ESPNDeportes(Español).us" tvg-name="ESPN Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" tvg-group="INFANTILES", ESPN Deportes
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/212
+
+#EXTINF:-1 tvg-group="INFANTILES",US ESPN Deportes
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/435
+
